@@ -400,3 +400,104 @@ nav ul li a:hover::after {
   margin-top: 10px;
   font-size: 14px;
 }
+
+
+/* Basic Website Design Section */
+.basic-website-design {
+  padding: 60px 20px;
+  background: #fff;
+  color: #333;
+  text-align: center;
+}
+
+.basic-website-design .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.basic-website-design .tagline {
+  font-size: 1.3rem;
+  margin-top: 10px;
+}
+
+.basic-website-design .subtag {
+  margin-top: 10px;
+  color: #1f4037;
+  font-weight: bold;
+}
+
+.rating {
+  margin: 20px 0;
+  font-size: 1rem;
+}
+
+.testimonial {
+  font-style: italic;
+  background: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 0 auto 30px;
+  max-width: 600px;
+}
+
+.pricing-card {
+  background: linear-gradient(60deg, #0055aa, #0055aa);
+  color: white;
+  padding: 30px 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.pricing-card h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.pricing-card ul {
+  line-height: 1.6;
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.btn {
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.btn-primary {
+  background: #426797;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #174027;
+}
+
+.btn-secondary {
+  background: #f0f0f0;
+  color: #1f4037;
+}
+
+.btn-secondary:hover {
+  background: #d3d3d3;
+}
+
+.contact-cta {
+  margin-top: 40px;
+}
+
+.contact-cta h3 {
+  margin-bottom: 10px;
+}
+
+.note {
+  font-size: 0.9rem;
+  margin-bottom: 30px;
+}
