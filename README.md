@@ -1,30 +1,48 @@
-# 🌐 BetaBuilds - Web Development Agency Website
+# 🚀 BetaBuilds - Web Development Agency
 
-This repository contains the source code for **BetaBuilds**, a youth-led web development agency based in Cape Town.  
-The website showcases our services, business packages, and contact information in a clean, responsive design.
-
----
-
-## 📖 Project Overview
-
-The **BetaBuilds website** is designed to:
-- Present our **services** (web design, responsive development, SEO, site management, and logo design).
-- Provide an **About section** to introduce the agency.
-- Include a **pricing package** for a basic website design.
-- Display **business hours** and multiple contact options (Instagram, WhatsApp).
-- Maintain a **modern responsive layout** with mobile-friendly navigation.
+This is the official website for **BetaBuilds**, my small web development agency based in Cape Town.  
+I built it to showcase what I do, the services I offer, and to give people an easy way to reach out if they want a site done.
 
 ---
 
-## 🛠️ Built With
+## 📖 What’s Inside
 
-- **HTML5** – Semantic structure for all content.
-- **CSS3** – Custom styling (see `styles.css`).
-- **JavaScript** – Interactive features (see `script.js`).
-- **Font Awesome** – Iconography for social links and features.
-- **Responsive Design** – Works across desktops, tablets, and mobile devices.
+The site is simple and straight to the point:
+- A **Home/Hero section** with the main tagline + image.
+- A **Services section** showing what I offer (web design, responsive dev, SEO, site management, logo design).
+- An **About section** to introduce BetaBuilds and what we’re about.
+- A **Packages section** (basic website design deal for R299 p/m).
+- A **Contact section** with business hours and social links.
+- A **Floating CTA button** for quick contact.
+- A **Footer** with socials.
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Tech Used
 
+- **HTML5** – for the structure
+- **CSS3** – all the styling
+- **JavaScript** – interactive stuff (menu toggle, animations, etc.)
+- **Font Awesome** – for icons
+- **Responsive Design** – works on phone, tablet, and desktop
+
+---
+
+## 📂 File Setup
+├── index.html # Main HTML file
+├── styles.css # Custom styles
+├── script.js # JavaScript
+├── images/ # Logos + images
+└── README.md # This file
+
+
+📞 Hit Me Up
+Instagram (Agency): @betabuilds_development
+
+Instagram (Personal): @phali_banele
+
+WhatsApp: Click to chat
+
+📜 License
+© 2025 BetaBuilds Software Solutions.
+This site is for my personal business + portfolio. Don’t just rip it off 👀
