@@ -41,8 +41,6 @@ Instagram (Agency): @betabuilds_development
 
 Instagram (Personal): @phali_banele
 
-WhatsApp: Click to chat
-
 📜 License
 © 2025 BetaBuilds Software Solutions.
 This site is for my personal business + portfolio. Don’t just rip it off 👀
